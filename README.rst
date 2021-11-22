@@ -45,6 +45,7 @@
     :target: https://web.libera.chat/#pytest
     :alt: Libera chat
 
+Adding new text. Hope to see you there.
 
 The ``pytest`` framework makes it easy to write small tests, yet
 scales to support complex functional testing for applications and libraries.
